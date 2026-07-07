@@ -2,4 +2,5 @@
 
 Cybersecurity enthusiast · Neural networks enthusiast<br/>
 Still learning — writing down the pitfalls as I go.
+
 <sub>Learning slowly, building quietly.</sub>
