@@ -3,6 +3,7 @@
 Neural networks enthusiast<br/>
 Still learning — writing down the pitfalls as I go.
 
+I'm looking for a job
 VX:wxid_77szf3avjg1c12
 
 <sub>Learning slowly, building quietly.</sub>
